@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node-lts-strictest-esm/tsconfig.json",
+  "include": ["index.ts"],
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "lib": ["dom", "es2022"]
+  }
+}
+

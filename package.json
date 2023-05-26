@@ -1,0 +1,14 @@
+{
+  "name": "redux-saga-ts",
+  "version": "1.0.0",
+  "description": "reference implementation of redux-saga in typescript",
+  "main": "index.js",
+  "repository": "git@github.com:redux-saga/redux-saga-ts.git",
+  "author": "Eric Bower <me@erock.io>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^20.2.4",
+    "typescript": "^5.0.4"
+  }
+}
